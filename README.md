@@ -1,1 +1,1 @@
-# Wave_Fuction_Collapse
+# WFC
